@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 Creating a new branch named dev.
 Creating a new branch named dev with no-ff.
+Add my email.
